@@ -8,7 +8,7 @@ Beholder scanner is a python 3 solution for memory scanning on Linux (test mainl
 
 The main goal of this solution is scaning process memory for automatization. This process can be a browser, a game, or any software that doesn't has a API for automatization.
 
-## Why this is different from another process scanner?
+## Why implement a process scanner?
 
 - There is some motivations to implement this from zero:
 
