@@ -10,11 +10,11 @@ The main goal of this solution is scaning process memory for automatization. Thi
 
 ## Why implement a process scanner?
 
-- There is some motivations to implement this from zero:
+There is some motivations to implement this from zero:
 
-- Lerning, the process of developing this helps to understand how another softwares does memory scanning, how linux kernel does memory allocation, etc...
+- Learning, the process of developing this helps to understand how other softwares does memory scanning, how linux kernel does memory allocation, etc...
 
-- Implement some features that makes the scanning process easier.
+- Implement features that makes the scanning process easier.
 
 - Create a python interface for easy automation and development of bots.
 
