@@ -20,6 +20,8 @@ class Scanner:
     def set_memory_map(self):
         self.memory_map = open(f"/proc/{self.pid}/maps", 'r')
 
+    def search_value(self, value, str: type = "int"):
+        raise Exception("seach_value no implemented")
 
 if __name__ == "__main__":
     teste = Scanner()
