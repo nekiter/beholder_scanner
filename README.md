@@ -2,7 +2,7 @@
 
 ## What is it?
 
-Beholder scanner is a python 3 solution for memory scanning on Linux (test mainly on Ubuntu 18.10 and 18.02, but it should work on almost every linux distros). 
+Beholder scanner is a python 3 solution for memory scanning on Linux (tested mainly on Ubuntu 18.10 and 18.02, but it should work on almost every linux distros). 
 
 ## Why this exists?
 
